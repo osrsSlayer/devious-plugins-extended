@@ -23,7 +23,7 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-rootProject.name = "unethicalite-plugins"
+rootProject.name = "SlayPlug"
 
 //include("hoot-blackjack")
 //include("hoot-trawler")
@@ -55,6 +55,8 @@ include("unethical-logout")
 include("m-autoswitcher")
 include("m-powerfisher")
 include("m-wintertodt")
+include("SlayWood")
+include("slayRevs")
 
 //include("example-kotlin")
 
