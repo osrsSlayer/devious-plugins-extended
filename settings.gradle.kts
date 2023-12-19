@@ -56,7 +56,8 @@ include("m-autoswitcher")
 include("m-powerfisher")
 include("m-wintertodt")
 include("SlayWood")
-include("slayRevs")
+include("slayRuneDragons")
+include("ExampleTree")
 
 //include("example-kotlin")
 
